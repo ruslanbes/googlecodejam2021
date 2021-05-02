@@ -5,4 +5,4 @@ Inspired by [Kamyu](https://github.com/kamyu104)
 Solutions of Google Code Jam 2021 written in Go.
 
 * Qualification
-    * [Reversort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c) - [Solution in Go](./qualification/reversort.go)
+    * [Reversort](https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c) - [Solution in Go](./qualification/reversort/reversort.go)
